@@ -67,7 +67,7 @@ let galleryData = {
    'imgurl':'images/portfolio/gojo.png'
     },
     {
-    'name':'project4',
+    'name':'practice2',
    'imgurl':'images/portfolio/aryan.png'
     }
     ],
